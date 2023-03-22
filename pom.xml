@@ -9,7 +9,7 @@
   		<!-- tomcat catalina includes tomcat web container and servlets API -->
 		<groupId>org.apache.tomcat</groupId>
 		<artifactId>tomcat-catalina</artifactId>
-		<version>9.0.27</version>
+		<version>9.0.72</version>
 	</dependency>
 	</dependencies>
 </project>
